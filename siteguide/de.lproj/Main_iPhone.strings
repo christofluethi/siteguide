@@ -1,0 +1,180 @@
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "0f0-sO-via"; */
+"0f0-sO-via.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "1ty-4D-BTI"; */
+"1ty-4D-BTI.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "2R0-AI-piL"; */
+"2R0-AI-piL.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "2Tf-09-fJg"; */
+"2Tf-09-fJg.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Sortierung"; ObjectID = "3gC-Cq-007"; */
+"3gC-Cq-007.title" = "Sortierung";
+
+/* Class = "IBUILabel"; text = "Letzte bekannte Position: keine"; ObjectID = "4OR-OO-joA"; */
+"4OR-OO-joA.text" = "Letzte bekannte Position: keine";
+
+/* Class = "IBUINavigationItem"; title = "SiteGuide"; ObjectID = "4e9-gs-zpb"; */
+"4e9-gs-zpb.title" = "SiteGuide";
+
+/* Class = "IBUINavigationItem"; title = "Einstellungen"; ObjectID = "63k-FA-uQv"; */
+"63k-FA-uQv.title" = "Einstellungen";
+
+/* Class = "IBUILabel"; text = "Settings"; ObjectID = "6DM-L9-VJq"; */
+"6DM-L9-VJq.text" = "Einstellungen";
+
+/* Class = "IBUINavigationItem"; title = "Inhalt"; ObjectID = "7GB-KI-BIM"; */
+"7GB-KI-BIM.title" = "Inhalt";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "9at-aT-Qg3"; */
+"9at-aT-Qg3.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "X Koordinate:"; ObjectID = "9yj-s3-Txl"; */
+"9yj-s3-Txl.text" = "X Koordinate:";
+
+/* Class = "IBUILabel"; text = "Modus"; ObjectID = "AaE-bF-dhM"; */
+"AaE-bF-dhM.text" = "Modus";
+
+/* Class = "IBUILabel"; text = "Site Name"; ObjectID = "AeW-i2-aBZ"; */
+"AeW-i2-aBZ.text" = "Site Name";
+
+/* Class = "IBUILabel"; text = "Semesterarbeit CAS-MAD13"; ObjectID = "BSt-Dh-86C"; */
+"BSt-Dh-86C.text" = "Semesterarbeit CAS-MAD13";
+
+/* Class = "IBUINavigationItem"; title = "Info"; ObjectID = "DJk-dl-dNq"; */
+"DJk-dl-dNq.title" = "Info";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "DUg-Za-Dmg"; */
+"DUg-Za-Dmg.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "DfS-G7-4wO"; */
+"DfS-G7-4wO.text" = "Title";
+
+/* Class = "IBUILabel"; text = "iBeacon Position anzeigen"; ObjectID = "FIg-KV-wCN"; */
+"FIg-KV-wCN.text" = "iBeacon Position anzeigen";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "FPi-70-dvR"; */
+"FPi-70-dvR.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Stefan Wagner"; ObjectID = "HG4-8s-4j5"; */
+"HG4-8s-4j5.text" = "Stefan Wagner";
+
+/* Class = "IBUILabel"; text = "Damit dies korrekt funktioniert muss eine (X,Y) Position angegeben sowie in den Einstellungen 'Debug Position verwenden' eingeschaltet werden. Weiter muss Bluetooth aktiviert sein.\n\nDer Ursprung (0,0) ist oben links.\n\nAls Eingabewerte werden nur Ganzzahlen unterstützt. "; ObjectID = "HGI-cN-scl"; */
+"HGI-cN-scl.text" = "Damit dies korrekt funktioniert muss eine (X,Y) Position angegeben sowie in den Einstellungen 'Debug Position verwenden' eingeschaltet werden. Weiter muss Bluetooth aktiviert sein.\n\nDer Ursprung (0,0) ist oben links.\n\nAls Eingabewerte werden nur Ganzzahlen unterstützt. ";
+
+/* Class = "IBUIButton"; normalTitle = "Karte"; ObjectID = "Hhp-iV-Jfu"; */
+"Hhp-iV-Jfu.normalTitle" = "Karte";
+
+/* Class = "IBUILabel"; text = "Debug Position"; ObjectID = "JDW-fY-fVz"; */
+"JDW-fY-fVz.text" = "Debug Position";
+
+/* Class = "IBUILabel"; text = "Daten an Server senden"; ObjectID = "KX8-NE-gb3"; */
+"KX8-NE-gb3.text" = "Daten an Server senden";
+
+/* Class = "IBUILabel"; text = "Kontakt:"; ObjectID = "Lrc-3g-4RH"; */
+"Lrc-3g-4RH.text" = "Kontakt:";
+
+/* Class = "IBUILabel"; text = "Karte"; ObjectID = "NRD-h2-8aU"; */
+"NRD-h2-8aU.text" = "Karte";
+
+/* Class = "IBUILabel"; text = "Version 1.0"; ObjectID = "OhM-g0-WYV"; */
+"OhM-g0-WYV.text" = "Version 1.0";
+
+/* Class = "IBUILabel"; text = "Debug View anzeigen"; ObjectID = "Ooe-gS-Oj4"; */
+"Ooe-gS-Oj4.text" = "Debug View anzeigen";
+
+/* Class = "IBUILabel"; text = "Moritz Kobel"; ObjectID = "Rt2-PE-zSw"; */
+"Rt2-PE-zSw.text" = "Moritz Kobel";
+
+/* Class = "IBUIButton"; normalTitle = "Debug"; ObjectID = "T8B-Tu-RNj"; */
+"T8B-Tu-RNj.normalTitle" = "Debug";
+
+/* Class = "IBUIButton"; normalTitle = "Settings"; ObjectID = "TRa-Dx-uYX"; */
+"TRa-Dx-uYX.normalTitle" = "Einstellungen";
+
+/* Class = "IBUILabel"; text = "Debug Position verwenden"; ObjectID = "U7F-y0-8Zu"; */
+"U7F-y0-8Zu.text" = "Debug Position verwenden";
+
+/* Class = "IBUINavigationItem"; title = "Positions Modus"; ObjectID = "UZj-Gq-3fg"; */
+"UZj-Gq-3fg.title" = "Positions Modus";
+
+/* Class = "IBUILabel"; text = "POI Liste"; ObjectID = "VgW-rq-NMb"; */
+"VgW-rq-NMb.text" = "Inhalt";
+
+/* Class = "IBUINavigationItem"; title = "Site Namen"; ObjectID = "W8P-rt-jun"; */
+"W8P-rt-jun.title" = "Site Namen";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "WdH-90-cdp"; */
+"WdH-90-cdp.text" = "Detail";
+
+/* Class = "IBUINavigationItem"; title = "Dokumente"; ObjectID = "XDv-gW-7XE"; */
+"XDv-gW-7XE.title" = "Dokumente";
+
+/* Class = "IBUIBarButtonItem"; title = "Abbrechen"; ObjectID = "YPW-g8-13Q"; */
+"YPW-g8-13Q.title" = "Abbrechen";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Positionierung"; ObjectID = "Yuc-vD-QDf"; */
+"Yuc-vD-QDf.headerTitle" = "Positionierung";
+
+/* Class = "IBUINavigationItem"; title = "Debug Position"; ObjectID = "Z0s-Jn-EbQ"; */
+"Z0s-Jn-EbQ.title" = "Debug Position";
+
+/* Class = "IBUITableViewController"; title = "Settings"; ObjectID = "ZXW-kL-wtO"; */
+"ZXW-kL-wtO.title" = "Einstellungen";
+
+/* Class = "IBUILabel"; text = "Y Koordinate:"; ObjectID = "aFH-tz-zqe"; */
+"aFH-tz-zqe.text" = "Y Koordinate:";
+
+/* Class = "IBUILabel"; text = "Information:"; ObjectID = "aua-jb-Z50"; */
+"aua-jb-Z50.text" = "Information:";
+
+/* Class = "IBUINavigationItem"; title = "Karte"; ObjectID = "c8c-1M-jHs"; */
+"c8c-1M-jHs.title" = "Karte";
+
+/* Class = "IBUILabel"; text = "www.siteguide.ch"; ObjectID = "e9n-Fc-5XD"; */
+"e9n-Fc-5XD.text" = "www.siteguide.ch";
+
+/* Class = "IBUILabel"; text = "Team:"; ObjectID = "fAN-7X-fge"; */
+"fAN-7X-fge.text" = "Team:";
+
+/* Class = "IBUILabel"; text = "Position"; ObjectID = "i0Z-eQ-oH6"; */
+"i0Z-eQ-oH6.text" = "Debug";
+
+/* Class = "IBUIButton"; normalTitle = "Speichern"; ObjectID = "q8Z-n6-kz6"; */
+"q8Z-n6-kz6.normalTitle" = "Speichern";
+
+/* Class = "IBUILabel"; text = "Christof Lüthi"; ObjectID = "qXf-nP-znM"; */
+"qXf-nP-znM.text" = "Christof Lüthi";
+
+/* Class = "IBUITextField"; placeholder = "URL"; ObjectID = "rgx-hB-a6T"; */
+"rgx-hB-a6T.placeholder" = "URL";
+
+/* Class = "IBUINavigationItem"; title = "POI Liste"; ObjectID = "tEB-BL-Cg5"; */
+"tEB-BL-Cg5.title" = "POI Liste";
+
+/* Class = "IBUILabel"; text = "Letzte Positionierung um: unbekannt"; ObjectID = "up0-Uu-T8z"; */
+"up0-Uu-T8z.text" = "Letzte Positionierung um: unbekannt";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "v2T-N6-n0A"; */
+"v2T-N6-n0A.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "POI Liste"; ObjectID = "vGW-Hl-Sn3"; */
+"vGW-Hl-Sn3.normalTitle" = "POI Liste";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Server"; ObjectID = "vcH-eF-wOi"; */
+"vcH-eF-wOi.headerTitle" = "Server";
+
+/* Class = "IBUIButton"; normalTitle = "Über die MobileApp SiteGuide"; ObjectID = "w3X-Lj-Alr"; */
+"w3X-Lj-Alr.normalTitle" = "Über die MobileApp SiteGuide";
+
+/* Class = "IBUINavigationItem"; title = "Position Debug VIew"; ObjectID = "w6I-dd-c3f"; */
+"w6I-dd-c3f.title" = "Position Debug View";
+
+/* Class = "IBUITableViewSection"; footerTitle = "Debug dient nur zur Bewertung/Testzwecken. Es werden keine Tests von allfälligen Eingabefelder gemacht."; ObjectID = "zeV-C0-z5C"; */
+"zeV-C0-z5C.footerTitle" = "Debug dient nur zur Bewertung/Testzwecken. Es werden keine Tests von allfälligen Eingabefelder gemacht.";
+
+/* Class = "IBUITableViewSection"; headerTitle = "DEBUG"; ObjectID = "zeV-C0-z5C"; */
+"zeV-C0-z5C.headerTitle" = "DEBUG";
