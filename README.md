@@ -3,7 +3,6 @@ SiteGuide
 
 SiteGuide iBeacon iOS App
 
-
 Requirements
 =========
 - iPhone5s, iPhone5 
